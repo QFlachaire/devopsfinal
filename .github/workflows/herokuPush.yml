@@ -1,4 +1,4 @@
-name: Push App to Heroku
+name: "W/o Docker: Push App to Heroku"
 
 on:
   push:
