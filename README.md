@@ -1,4 +1,4 @@
-#Un readme pour les gouverner tous.
+# Un readme pour les gouverner tous.
 
 Les steps 1 à 4 se sont trés bien passé.
 La 5 quand à elle à été plus compliqué, en effet avec guillaume nous pensions l'avoir terminé mais nous avions faux.
